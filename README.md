@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nitish Joshi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Nitish Joshi</h1> -->
 
 <h3 align="center">
 Backend Developer in Progress • DSA Enthusiast • Building Real-World Projects
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/cdt-Nitish/cdt-Nitish/main/ChatGPT Image Sep 10, 2026, 10_05_03 AM.png" alt="Nitish Banner" width="30%" height="auto"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/cdt-Nitish/cdt-Nitish/main/assets/nitish-mugshot.png" width="180" alt="Nitish"/>
@@ -14,7 +14,7 @@ Backend Developer in Progress • DSA Enthusiast • Building Real-World Project
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cdt-Nitish&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+</p> 
 
 ---
 
